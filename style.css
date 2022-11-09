@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    color: 	#ffb5bb;
+    font-family: 'Cinzel', serif;
+    font-size: 50px;
+}
+
+body{
+    background-image: url('img/skyline.jpeg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color:#000;
+}
+
+
+a{
+    text-decoration: none;
+}
+form{
+    width:100%;
+    max-width:600px;
+    margin:0 auto;
+ }
+ input{
+    width:100%;
+    font-size:32px;
+    margin:5px 0;
+    float:left;
+    border:none;
+    padding:10px;
+    outline:none;
+ }
+ .search-bar{
+    width:80%;
+    padding: 10px;
+ }
+ .submit-button{
+    width:15%;
+    background:#301934	;
+    color:floralwhite;
+    
+ }
+ 
+ /*
+=================================================
+BOOKMARKS
+=================================================
+*/
+.bookmarks{
+    padding:30px;
+    clear:both;
+    text-align: center;
+ }
+ .bookmarks i{
+    font-size:42px;
+    margin:0 20px;
+    color:#fff;
+    transition:.15s;
+    vertical-align: top;
+ }
+ .bookmarks i:hover{
+    font-size:72px;
+    position:relative;
+ }
+
+    
